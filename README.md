@@ -1,1 +1,3 @@
-# stircrazylabs.github.io
+# Home
+
+This is where it all begins. 
